@@ -119,7 +119,7 @@ export default function TermsPage() {
           <section>
             <h2 className="text-2xl font-bold mb-4">Contact Us</h2>
             <p className="text-gray-300">
-              If you have any questions about these Terms, please contact us at legal@devscholar.com.
+              If you have any questions about these Terms, please contact us at devscholar19@gmail.com.
             </p>
           </section>
 
