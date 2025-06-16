@@ -171,7 +171,7 @@ export default function HomePage() {
           {[
             {
               title: "BSc Projects",
-              price: "₦100,000",
+              price: "₦75,000",
               features: ["Code implementation", "Basic documentation", "14-day delivery", "1 revision"],
             },
             {
